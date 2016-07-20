@@ -4,6 +4,7 @@ GENERAL
 
 body {
   font-family: 'Open Sans', sans-serif;
+
 }
 
 #wrapper {
@@ -127,7 +128,7 @@ PAGE: PORTFOLIO
   margin: 0;
   padding: 5%;
   font-size: 0.75em;
-  color: #bdc3c7
+  color: black;
 }
 
 
@@ -219,17 +220,3 @@ nav a, nav a:visited {
 nav a.selected, nav a:hover {
   color: #32673f;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
